@@ -27,7 +27,7 @@ A intermediate Python Developer with a bit of experience in C, C++ and JS.
 <div class="iconl">
 <a href="https://twitter.com/GetRRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="GetRRaj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rahul-raj-1165311aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghostuser" height="30" width="40" /></a>
-<a href="https://instagram.com/a.z.a.e.a.z.e.l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rahul" height="30" width="40" /></a>
+<a href="https://instagram.com/_a.z.a.z.e.l_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Rahul" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codersting007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ghostuser" height="30" width="40" /></a>
 </div>
 </p>
