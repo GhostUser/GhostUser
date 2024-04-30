@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <p style="border:solid 0.1px; box-shadow: 5px 5px rgba(0,0,0,0.25)">
-I'm <strong>Rahul</strong> currently in my last year of Bachelor's in Electronics and Communication Engineering.
+I'm <strong>Rahul</strong> a passout in Bachelor's in Electronics and Communication Engineering.
 Interested in AI, ML and Computer Vision.
 A intermediate Python Developer with a bit of experience in C, C++ and JS. 
 <p>
